@@ -29,13 +29,13 @@
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h3>Code Contributions</h3>
+      <!-- <h3>Code Contributions</h3> -->
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=RajeevlochanP&bg_color=1a1b27&color=7aa2f7&line=7dcfff&point=15161e&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <h3>🔗 Let's Connect</h3>
+      <h3>Let's Connect</h3>
       <a href="https://www.linkedin.com/in/rajeev-lochan-perla/">
         <img src="https://skillicons.dev/icons?i=linkedin" width="45" title="LinkedIn"/>
       </a> &nbsp;&nbsp;

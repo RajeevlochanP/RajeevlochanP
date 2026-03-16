@@ -24,7 +24,7 @@
     <td width="50%" valign="top" align="center">
       <h3>Developer Activity</h3>
       <img src="https://leetcard.jacoblin.cool/rajeevlochanperla?theme=tokyonight&font=Inter&ext=activity" alt="LeetCode" /><br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=RajeevlochanP&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=RajeevlochanP&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord">
     </td>
   </tr>
   <tr>
